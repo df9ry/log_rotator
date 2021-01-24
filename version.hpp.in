@@ -1,0 +1,9 @@
+#ifndef VERSION_HPP
+#define VERSION_HPP
+
+#define APP_NAME      "log_rotator"
+#define APP_VERSION   "@log_rotator_VERSION@"
+#define APP_COPYRIGHT "2021 Tania Hagn - with GPL V3"
+#define APP_WEBSITE   "https://taniahagn.de"
+
+#endif // VERSION_HPP
